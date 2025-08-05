@@ -1,7 +1,7 @@
 # Team Five Ideas Internship
 
 ## 📌 Overview
-This repository contains the work completed by **Team Five Ideas** during our internship with **OMEIFEI DIGITAL GROUP OF COMPANIES**.  
+This repository contains the work completed by **Team Five** during our internship with **OMEIFEI DIGITAL GROUP OF COMPANIES**.  
 Our focus was on **medical data gathering, preprocessing, and chatbot model fine-tuning** for various medical specialties.  
 The repository includes raw datasets, data processing notebooks, and documentation of our research process.
 
