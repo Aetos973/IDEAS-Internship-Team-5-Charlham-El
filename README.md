@@ -46,6 +46,7 @@ Challenges Faced From our Allergy & Immunology research and other datasets:
 - **Hospital-based bias**: Many studies were hospital-based instead of population-based, limiting generalizability.
 
 **How We Overcame These Challenges**
+
 We:
 - Cross-referenced **multiple reputable sources** such as [PubMed](https://pmc.ncbi.nlm.nih.gov/), [WHO](https://www.who.int/health-topics/), [CDC](https://www.cdc.gov/health-topics.html), and [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases?dFR[type][0]=diseases) to verify accuracy.
 - Used **systematic review filters** (2019–2025, English-language, meta-analyses, and guidelines) to ensure relevance and quality.
